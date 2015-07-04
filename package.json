@@ -1,0 +1,22 @@
+{
+  "name": "autowiring",
+  "version": "0.0.1",
+  "description": "Dependency injection and autowiring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blue-saber/autowiring.git"
+  },
+  "keywords": [
+    "autowire"
+  ],
+  "author": "Blue Saber",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/blue-saber/autowiring/issues"
+  },
+  "homepage": "https://github.com/blue-saber/autowiring#readme"
+}
