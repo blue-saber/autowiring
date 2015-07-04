@@ -1,6 +1,6 @@
 {
   "name": "autowiring",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dependency injection and autowiring.",
   "main": "index.js",
   "scripts": {
