@@ -1,6 +1,6 @@
 {
   "name": "autowiring",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dependency injection and autowiring.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/blue-saber/autowiring.git"
+  },
+  "dependencies": {
+    "async": ">=1.2"
   },
   "keywords": [
     "autowire"
